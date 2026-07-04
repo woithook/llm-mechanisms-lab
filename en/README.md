@@ -14,7 +14,6 @@ The repository may include notebooks related to topics such as:
 * Tokenization and text compression
 * RoPE and positional encoding
 * Vision-Language-Action models
-* Reinforcement learning
 * Multimodal learning
 * AI research notes and technical tutorials
 
