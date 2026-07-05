@@ -6,7 +6,7 @@ Personal notes documenting my exploration, implementation, and research on Large
 
 This repository contains a collection of IPython Notebook (`.ipynb`) memos related to large language models and modern AI systems.
 
-The notebooks in this repository are translated from my original Chinese memo-style notebooks with the assistance of large language models (LLMs). They are mainly used to document my learning process, technical experiments, paper reading notes, implementation details, and research-oriented reflections.
+The notebooks in this repository are translated from my original Chinese memo-style notebooks with the assistance of large language models. They are mainly used to document my learning process, technical experiments, paper reading notes, implementation details, and research-oriented reflections.
 
 ## Topics
 
